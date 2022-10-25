@@ -1,0 +1,7 @@
+*.egg-info
+*.csv
+*.pyc
+build/
+dist/
+__pycatche__/
+paneltime.egg-info/
